@@ -54,10 +54,10 @@ elif [[ $option == 2 ]]; then
 server="facebook"
 start
 elif [[ $option == 3 ]]; then
-server="snapchat"
+server="whatsapp"
 start
 elif [[ $option == 4 ]]; then
-server="twitter"
+server="shopee"
 start
 elif [[ $option == 5 ]]; then
 server="github"
@@ -79,7 +79,7 @@ server="paypal"
 start
 
 elif [[ $option == 10 ]]; then
-server="origin"
+server="gmail"
 start
 
 elif [[ $option == 11 ]]; then
